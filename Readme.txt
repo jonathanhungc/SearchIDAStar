@@ -1,5 +1,5 @@
 File name: search.py
-This file contains the classes and logic to perform iterative deepening search to solve
+This file contains the classes and logic to perform iterative deepening A Star search to solve 
 a 4x4 (15-tile) sliding tile puzzle. It performs iterative deepening A Star search, and has two different heuristic
 functions for evaluating distance: one with number of misplaced tiles and one for Manhattan
 Distance. It contains different classes to handle the nodes of the search tree, and store
